@@ -1,16 +1,7 @@
-# vlad
+# VLAD
 
-A new Flutter project.
+VLAD is an anime downloader. This tool scraps the anime list and allows user to download to their local storage.
+It supports multi-threaded queuing download mechanism with pause and resume capability.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This entire tool is built using Flutter. Currently it is written for Windows specifically, but later it will 
+be pushed for other platforms as well.
