@@ -7,7 +7,9 @@ import 'package:vlad/screens/layout.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  if (Platform.isWindows) {}
+  if (Platform.isWindows) {
+    
+  }
 
   runApp(
     MultiProvider(
