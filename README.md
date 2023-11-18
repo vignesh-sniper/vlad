@@ -5,3 +5,6 @@ It supports multi-threaded queuing download mechanism with pause and resume capa
 
 This entire tool is built using Flutter. Currently it is written for Windows specifically, but later it will 
 be pushed for other platforms as well.
+
+This was previously available in Windows platform
++
